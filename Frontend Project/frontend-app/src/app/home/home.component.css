@@ -1,0 +1,18 @@
+
+.box
+{
+    width: 100%;
+    
+}
+
+.box img
+{
+    
+    width: 1500px;
+    height: 500px;
+    max-width: 1000px;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+
+}
